@@ -1,0 +1,4 @@
+vivanews, http://rss.vivanews.com/get/all
+detikcom, http://rss.detik.com/index.php/detikcom/
+tempo, http://tempo.co/rss/terkini
+sportsatu, http://sportsatu.com/feed/
